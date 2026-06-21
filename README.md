@@ -147,7 +147,7 @@ This dashboard enables businesses to:
 
 ### Sales Overview Dashboard
 
-<img width="806" height="536" alt="Screenshot 2026-06-21 223130" src="https://github.com/user-attachments/assets/d1c89e3d-9422-4037-b1f9-5580d85279fe" />
+<img width="804" height="533" alt="Screenshot 2026-06-21 223548" src="https://github.com/user-attachments/assets/34b6a7db-b15f-4f7a-a7ca-1628ade00c91" />
 
 
 ### Product Analysis Dashboard
@@ -202,3 +202,6 @@ I enjoy working on real-world projects using Excel, SQL, Power BI, and Python to
 📧 Email: kv4176521@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/krishna-verma-65673933a
+
+📱 Phone: 6200648179
+
