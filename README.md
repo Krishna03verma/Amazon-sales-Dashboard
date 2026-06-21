@@ -1,183 +1,143 @@
+# 🛒 Amazon Sales Analytics Dashboard
 
-🛒 Amazon Sales Analytics Dashboard
-Business Problem
+## 📌 Overview
 
-E-commerce businesses generate large volumes of sales data across multiple products, sellers, categories, and cities. Understanding sales performance, customer engagement, and regional demand is essential for improving profitability and inventory planning.
+This project presents an interactive Amazon Sales Analytics Dashboard developed in Power BI to analyze sales performance, seller activity, product performance, customer reviews, and regional sales distribution. The dashboard enables users to monitor key business metrics, identify top-performing products and locations, and make data-driven decisions.
 
-This project analyzes Amazon sales data to identify top-performing products, sales trends, city-wise demand, and seller performance.
+---
 
-📌 Table of Contents
-Overview
-Business Problem
-Project Objective
-Key KPIs
-Dashboard Highlights
-Dashboard Preview
-Key Insights
-Tools & Techniques
-Data Preparation
-Project Structure
-How to Use
-Business Impact
-Future Enhancements
-🎯 Project Objective
+## 🎯 Business Problem
 
-To develop an interactive Power BI dashboard that:
+E-commerce businesses generate massive amounts of sales data across products, sellers, and locations. Without proper analysis, it becomes difficult to identify sales trends, customer preferences, and high-performing products. This project addresses these challenges by providing an interactive dashboard that transforms raw data into actionable business insights.
 
-Tracks overall sales performance
-Analyzes product and category-wise sales
-Evaluates seller contribution
-Identifies high-performing cities and states
-Monitors product reviews and customer engagement
-Provides actionable insights for business growth
-📊 Key KPIs
-Total Sales: 120.30K
-Seller Count: 19.25K
-Sales Units: Product-level sales tracking
-Customer Reviews: Product performance indicator
-City & State Performance Analysis
+---
 
-Derived from dashboard metrics and visuals.
+## 🎯 Project Objective
 
-📈 Dashboard Highlights
-Sales Overview Dashboard
-Total Sales KPI
-Seller Count KPI
-Sales by City
-Sales by State
-Category Filters
-Order Status Filters
-Geographic Analysis
+The primary objective of this project is to build an interactive Power BI dashboard that:
 
-Tracks sales distribution across major cities:
+- Tracks overall sales performance
+- Monitors seller activity and contribution
+- Analyzes product-wise sales and customer reviews
+- Identifies top-performing cities and states
+- Provides insights into product demand and market trends
+- Supports data-driven business decision-making
 
-Bengaluru
-Hyderabad
-Mumbai
-Chennai
-New Delhi
-Pune
-Kolkata
-Gurugram
-Noida
-Lucknow
+---
 
-Bengaluru generated the highest sales among all cities.
+## 📊 Key KPIs
 
-Product Analysis
+- Total Sales: 120.30K
+- Seller Count: 19.25K
+- Product Sales Units
+- Customer Reviews
+- City-wise Sales Performance
+- State-wise Sales Performance
 
-Provides detailed product-level insights including:
+---
 
-Product Images
-Product Categories
-Product Sales
-Product Reviews
-Sales Units
-Return/Loss Information
+## 📈 Dashboard Highlights
 
-Examples include:
+### Sales Overview
+- Total Sales KPI
+- Seller Count KPI
+- Category Filters
+- Order Status Filters
+- Interactive Navigation
 
-Baby Carriers
-Bag Organizers
-Boys Clothing Sets
-Boys Belts
-Boys Dungarees
+### Geographic Analysis
+- Sales by City
+- Sales by State
+- Regional Performance Comparison
 
-Sales Trend Analysis
-Daily Sales Trends
-Product Performance Over Time
-Units Sold Analysis
-Category Performance Tracking
+### Product Performance Analysis
+- Product-wise Sales
+- Product Images and Details
+- Sales Units Tracking
+- Review Analysis
+- Return Information
 
-Interactive Filters
+### Sales Trend Analysis
+- Daily Sales Trends
+- Monthly Sales Patterns
+- Product-Level Performance Tracking
 
-Users can dynamically filter by:
+### Interactive Features
+- Dynamic Filtering
+- Product Selection
+- Category Selection
+- Date Range Analysis
 
-Product Category
-Order Status
-Date Range
-Product Selection
+---
 
-🔍 Key Insights
-Bengaluru is the highest-performing city in terms of sales.
-A small group of products contributes significantly to overall sales.
-Product reviews show a strong relationship with sales performance.
-Category-wise analysis helps identify top-selling product segments.
-Sales vary significantly across regions, enabling targeted marketing strategies.
-Seller performance metrics help evaluate marketplace effectiveness.
+## 🔍 Key Insights
 
-🛠 Tools & Techniques
-Power BI
-Data Modeling
-DAX Measures
-KPI Cards
-Interactive Slicers
-Bookmarks & Navigation Buttons
-Drill-through Analysis
-Dynamic Product Views
-Data Analysis Techniques
-Product Performance Analysis
-Geographic Sales Analysis
-Trend Analysis
-Customer Review Analysis
-Seller Performance Benchmarking
-🧹 Data Preparation
-Cleaned raw Amazon sales dataset
-Removed duplicate records
-Handled missing values
-Standardized product categories
-Created calculated measures for:
-Total Sales
-Seller Count
-Sales Units
-Review Metrics
-Optimized data model for dashboard performance
-📂 Project Structure
-Amazon Sales Dataset.xlsx
-Amazon Sales Dashboard.pbix
-Amazon Sales Dashboard.pdf
-Dashboard Demo Video.mp4
-🚀 How to Use
-Open the Power BI dashboard file.
-Use category and status filters.
-Explore city-wise and state-wise sales performance.
-Analyze individual product performance.
-Review sales trends and seller metrics.
-Generate business insights for decision-making.
-💼 Business Impact
+- Bengaluru emerged as the highest-performing city in terms of sales.
+- Sales performance varies significantly across different regions.
+- Products with higher customer reviews tend to achieve better sales.
+- Certain product categories contribute a major share of overall sales.
+- Sales trends help identify periods of high customer demand.
+- Seller performance varies across categories and products.
 
-This dashboard enables:
+---
 
-Better product performance tracking
-Identification of high-demand regions
-Improved inventory planning
-Enhanced seller performance monitoring
-Faster business decision-making
-Increased visibility into customer preferences
-🔮 Future Enhancements
-Revenue & Profit Margin Analysis
-Customer Segmentation
-Sales Forecasting using Machine Learning
-Real-Time Amazon Data Integration
-Advanced DAX Analytics
-Predictive Demand Planning
-🙋‍♂️ About Me
+## 🛠 Tools & Technologies Used
 
-Krishna Verma
+### Power BI
+- Data Modeling
+- DAX Measures
+- KPI Cards
+- Slicers
+- Bookmarks
+- Navigation Buttons
+- Interactive Visualizations
 
-📊 Aspiring Data Analyst
+### Data Analysis Techniques
+- Sales Analysis
+- Product Performance Analysis
+- Geographic Analysis
+- Trend Analysis
+- Customer Review Analysis
 
-Skills
-Excel
-SQL
-Power BI
-Python
-Data Cleaning
-Data Visualization
-Dashboard Development
-Business Analytics
-Connect With Me
+---
 
-📧 kv4176521@gmail.com
+## 🧹 Data Preparation
 
-📱 6200648179
+- Cleaned raw sales data
+- Removed duplicate records
+- Handled missing values
+- Standardized product categories
+- Created calculated measures and KPIs
+- Optimized data model relationships
+
+---
+
+## 🎥 Project Demo Video
+
+👉 Add your project demo video link here:
+
+[▶ Watch Dashboard Demo](PASTE_YOUR_VIDEO_LINK_HERE)
+
+---
+
+## 💼 Business Impact
+
+This dashboard enables businesses to:
+
+- Monitor sales performance effectively
+- Identify top-selling products
+- Improve inventory planning
+- Evaluate seller performance
+- Understand customer preferences
+- Support strategic decision-making
+
+---
+
+## 🔮 Future Enhancements
+
+- Revenue & Profit Analysis
+- Customer Segmentation
+- Sales Forecasting
+- Machine Learning Integration
+- Real-Time Data Refresh
+- Advanced DAX Analytics
