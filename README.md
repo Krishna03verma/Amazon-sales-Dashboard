@@ -147,23 +147,18 @@ This dashboard enables businesses to:
 
 ### Sales Overview Dashboard
 
-📸 Add Screenshot Here
+<img width="806" height="536" alt="Screenshot 2026-06-21 223130" src="https://github.com/user-attachments/assets/d1c89e3d-9422-4037-b1f9-5580d85279fe" />
+
 
 ### Product Analysis Dashboard
 
-📸 Add Screenshot Here
-
-### Product Detail Dashboard
-
-📸 Add Screenshot Here
+<img width="794" height="538" alt="Screenshot 2026-06-21 215716" src="https://github.com/user-attachments/assets/5045c923-1137-4bc0-93f2-8edde15b1baa" />
 
 ---
 
 ## 🎥 Project Demo
 
-👉 Add your project demo video link below:
-
-[▶ Watch Dashboard Demo](PASTE_YOUR_VIDEO_LINK_HERE)
+ https://www.linkedin.com/posts/krishna-verma-ba4088261_powerbi-dataanalytics-businessintelligence-activity-7474449538343407616-qpsL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBC1KwBuaqaNUUxar5Wnv-c0s6kbgqCl9o
 
 ---
 
