@@ -2,121 +2,54 @@
 
 ## 📌 Overview
 
-This project presents an interactive Amazon Sales Analytics Dashboard developed in Power BI to analyze sales performance, seller activity, product performance, customer reviews, and regional sales distribution. The dashboard enables users to monitor key business metrics, identify top-performing products and locations, and make data-driven decisions.
+This Power BI dashboard analyzes Amazon sales data to provide insights into sales performance, product trends, seller activity, customer reviews, and regional demand. The dashboard helps businesses monitor key metrics and make data-driven decisions.
 
 ---
 
 ## 🎯 Business Problem
 
-E-commerce businesses generate massive amounts of sales data across products, sellers, and locations. Without proper analysis, it becomes difficult to identify sales trends, customer preferences, and high-performing products. This project addresses these challenges by providing an interactive dashboard that transforms raw data into actionable business insights.
+E-commerce businesses generate large volumes of sales data across products, sellers, and locations. Analyzing this data is essential for identifying top-performing products, understanding customer behavior, and improving business performance.
 
 ---
 
 ## 🎯 Project Objective
 
-The primary objective of this project is to build an interactive Power BI dashboard that:
-
-- Tracks overall sales performance
-- Monitors seller activity and contribution
-- Analyzes product-wise sales and customer reviews
-- Identifies top-performing cities and states
-- Provides insights into product demand and market trends
-- Supports data-driven business decision-making
+- Analyze overall sales performance
+- Monitor product and seller performance
+- Identify top-performing cities and regions
+- Track customer reviews and engagement
+- Generate actionable business insights
 
 ---
 
-## 📊 Key KPIs
+## 📊 Key Metrics
 
 - Total Sales: 120.30K
 - Seller Count: 19.25K
 - Product Sales Units
 - Customer Reviews
-- City-wise Sales Performance
-- State-wise Sales Performance
+- City & State Performance
 
 ---
 
 ## 📈 Dashboard Highlights
 
-### Sales Overview
-- Total Sales KPI
-- Seller Count KPI
-- Category Filters
-- Order Status Filters
-- Interactive Navigation
-
-### Geographic Analysis
-- Sales by City
-- Sales by State
-- Regional Performance Comparison
-
-### Product Performance Analysis
-- Product-wise Sales
-- Product Images and Details
-- Sales Units Tracking
-- Review Analysis
-- Return Information
-
-### Sales Trend Analysis
-- Daily Sales Trends
-- Monthly Sales Patterns
-- Product-Level Performance Tracking
-
-### Interactive Features
-- Dynamic Filtering
-- Product Selection
-- Category Selection
-- Date Range Analysis
+- Sales Overview Dashboard
+- Product Performance Analysis
+- Regional Sales Analysis
+- Customer Review Analysis
+- Sales Trend Analysis
+- Interactive Filters and Slicers
 
 ---
 
 ## 🔍 Key Insights
 
-- Bengaluru emerged as the highest-performing city in terms of sales.
-- Sales performance varies significantly across different regions.
-- Products with higher customer reviews tend to achieve better sales.
-- Certain product categories contribute a major share of overall sales.
-- Sales trends help identify periods of high customer demand.
-- Seller performance varies across categories and products.
-
----
-
-## 🛠 Tools & Technologies Used
-
-### Power BI
-- Data Modeling
-- DAX Measures
-- KPI Cards
-- Slicers
-- Bookmarks
-- Navigation Buttons
-- Interactive Visualizations
-
-### Data Analysis Techniques
-- Sales Analysis
-- Product Performance Analysis
-- Geographic Analysis
-- Trend Analysis
-- Customer Review Analysis
-
----
-
-## 🧹 Data Preparation
-
-- Cleaned raw sales data
-- Removed duplicate records
-- Handled missing values
-- Standardized product categories
-- Created calculated measures and KPIs
-- Optimized data model relationships
-
----
-
-## 🎥 Project Demo Video
-
-👉 Add your project demo video link here:
-
-[▶ Watch Dashboard Demo](PASTE_YOUR_VIDEO_LINK_HERE)
+- Bengaluru recorded the highest sales volume.
+- Sales performance varies across regions.
+- Products with strong customer reviews tend to achieve better sales.
+- Certain categories contribute significantly to overall sales.
+- Sales trends reveal periods of high customer demand.
 
 ---
 
@@ -124,20 +57,67 @@ The primary objective of this project is to build an interactive Power BI dashbo
 
 This dashboard enables businesses to:
 
-- Monitor sales performance effectively
-- Identify top-selling products
-- Improve inventory planning
-- Evaluate seller performance
-- Understand customer preferences
-- Support strategic decision-making
+- Monitor overall sales performance effectively.
+- Identify top-performing products and categories.
+- Understand regional demand across cities and states.
+- Evaluate seller performance and customer engagement.
+- Support inventory and sales planning through trend analysis.
+- Improve decision-making using data-driven insights.
+- Identify growth opportunities and business bottlenecks.
 
 ---
 
-## 🔮 Future Enhancements
+## 🛠 Tools Used
 
-- Revenue & Profit Analysis
-- Customer Segmentation
-- Sales Forecasting
-- Machine Learning Integration
-- Real-Time Data Refresh
-- Advanced DAX Analytics
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
+
+---
+
+## 📷 Dashboard Preview
+
+### Product Analysis Dashboard
+file:///C:/Users/kv417/OneDrive/Desktop/Data%20analytics/DA%20COURSE/Power%20BI/Projects/Amazon%20Dashboard/amazono%20dashboard%20%20File.pdf
+---
+## 🎥 Project video
+
+https://www.linkedin.com/posts/krishna-verma-ba4088261_powerbi-dataanalytics-businessintelligence-activity-7474449538343407616-qpsL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBC1KwBuaqaNUUxar5Wnv-c0s6kbgqCl9o
+
+---
+
+## 🙋‍♂️ About Me
+
+**Krishna Verma**  
+Aspiring Data Analyst passionate about transforming data into actionable business insights through analytics and visualization.
+
+---
+
+## 🛠 Skills
+
+- Excel
+- SQL
+- Power BI
+- Python
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- Business Analytics
+
+---
+
+## 📬 Contact
+
+📧 Email: kv4176521@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/krishna-verma-65673933a
+
+🐙 GitHub: Add Your GitHub Profile Link Here
+
+---
+
+⭐ If you found this project useful, feel free to star this repository.
