@@ -5,7 +5,23 @@
 This Power BI dashboard analyzes Amazon sales data to provide insights into sales performance, product trends, seller activity, customer reviews, and regional demand. The dashboard helps businesses monitor key metrics and make data-driven decisions.
 
 ---
+## 📌 Table of Contents
 
+- [Overview](#-overview)
+- [Business Problem](#-business-problem)
+- [Project Objective](#-project-objective)
+- [Key Metrics](#-key-metrics)
+- [Dashboard Highlights](#-dashboard-highlights)
+- [Key Insights](#-key-insights)
+- [Business Impact](#-business-impact)
+- [Tools Used](#-tools-used)
+- [Dashboard Preview](#-dashboard-preview)
+- [Project Demo](#-project-demo)
+- [About Me](#-about-me)
+- [Skills](#-skills)
+- [Contact](#-contact)
+- 
+---
 ## 🎯 Business Problem
 
 E-commerce businesses generate large volumes of sales data across products, sellers, and locations. Analyzing this data is essential for identifying top-performing products, understanding customer behavior, and improving business performance.
@@ -80,7 +96,7 @@ This dashboard enables businesses to:
 ## 📷 Dashboard Preview
 
 ### Product Analysis Dashboard
-file:///C:/Users/kv417/OneDrive/Desktop/Data%20analytics/DA%20COURSE/Power%20BI/Projects/Amazon%20Dashboard/amazono%20dashboard%20%20File.pdf
+
 ---
 ## 🎥 Project video
 
